@@ -89,3 +89,6 @@ module.exports = {
   getUserByFirstname,
   deleteUser,
 };
+
+// crypto.randomBytes(16).toString('hex');
+// If you want to run Node.js code directly in the terminal without creating a file, you can use the Node.js REPL (Read-Eval-Print Loop). The Node.js REPL allows you to interact with Node.js in an interactive mode directly from the terminal.
