@@ -1,5 +1,5 @@
 # Jwt_Authentication
 ``
-npm instal
+npm install
 ``
 
